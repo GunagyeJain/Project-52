@@ -1,0 +1,27 @@
+.rabbit{
+    display:flex;
+    justify-content: space-between;
+}
+
+.rabbit:hover{
+    transform: (1,2);
+}
+
+.deer:hover{
+    transform: (1,2);
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:white;
+}
+
+.deer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    text-align:center;
+}
